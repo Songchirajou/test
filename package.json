@@ -1,0 +1,19 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"cfenv": "1.0.x",
+		"ejs": "^2.6.1",
+		"express": "^4.15.5",
+		"express-session": "^1.15.6"
+	},
+	"repository": {},
+	"engines": {
+		"node": "6.x"
+	}
+}
